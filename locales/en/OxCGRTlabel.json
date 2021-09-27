@@ -1,0 +1,56 @@
+{
+  "C1": {
+    "level_0": "Schools and universities are open.",
+    "level_1": "Schools and universities are mostly open, with specific measures implemented.",
+    "level_2": "Some schools and universities have been closed.",
+    "level_3": "All schools and universities have been closed."
+  },
+  "C2": {
+    "level_0": "Workplaces are open.",
+    "level_1": "Companies are recommended to close and to work from home.",
+    "level_2": "Some business sectors are required to close.",
+    "level_3": "Businesses are closed (or work from home), except essential workplaces (grocery stores, etc.)"
+  },
+  "C3": {
+    "level_0": "Public events are maintained.",
+    "level_1": "Events are recommended to be canceled.",
+    "level_2": "All events are canceled."
+  },
+  "C4": {
+    "level_0": "Private gathering are not limited.",
+    "level_1": "Restrictions have been set on very large gatherings (the limit is above 1000 people).",
+    "level_2": "Restrictions have been set on gatherings between 101-1000 people.",
+    "level_3": "Restrictions have been set on gatherings between 11-100 people.",
+    "level_4": "Restrictions have been set on gatherings between 10 people or less."
+  },
+  "C5": {
+    "level_0": "Public transports are fully accessible.",
+    "level_1": "Recommendations to close and reduce public transport traffic have been implemented.",
+    "level_2": "Public transport are significantly disturbed."
+  },
+  "C6": {
+    "level_0": "There is no lockdown implemented.",
+    "level_1": "It is recommended not to leave the house with some exceptions (grocery shopping, exercises...).",
+    "level_2": "It is required not to leave the house with strict exceptions.",
+    "level_3": "Restrictions have been set on gatherings between 11-100 people."
+  },
+  "C7": {
+    "level_0": "People can travel within the country with no extra restrictions.",
+    "level_1": "It is recommended to avoid traveling to other regions/cities.",
+    "level_2": "Internal movement restrictions are in place."
+  },
+  "C8": {
+    "level_0": "No restrictions on international travel have been set.",
+    "level_1": "Arrivals are screened.",
+    "level_2": "Quarantine on arrival can be expected.",
+    "level_3": "Some regions have been banned to enter the country.",
+    "level_4": "Borders are currently closed with few exceptions."
+  },
+  "H6": {
+    "level_0": "There is no public requirement to wear facial covering.",
+    "level_1": "It is recommended to wear facial covering.",
+    "level_2": "Facial covering is required in some specific areas.",
+    "level_3": "Facial covering is required in most public areas.",
+    "level_4": "Facial covering is required at all times outside of home."
+  }
+}

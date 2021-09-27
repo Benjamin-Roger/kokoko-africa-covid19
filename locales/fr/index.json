@@ -1,0 +1,36 @@
+{
+  "canwego": "Destination ",
+  "or":"OU",
+  "searchButton": "Chercher sur la carte",
+  "cardSectionTitle": "Quelles informations sont sur ce site ?",
+  "enter": {
+    "title": "Frontières",
+    "body": "Le pays est-il actuellement ouvert aux voyageurs venant internationaux ?"
+  },
+  "immigration": {
+    "title": "Exigences administratives et sanitaires",
+    "body": "Que faut-il préparer avant de venir (tests PCR, enregistrement en ligne...) et prévoir à l'arrivée (quarantaine, tests...)"
+  },
+  "localLife": {
+    "title": "Vie locale",
+    "body": "Comment sont les conditions de vie actuelles dans le pays ? Peut-on travailler ? Y a-t-il un confinement ?"
+  },
+  "innerTravel": {
+    "title": "Voyages intranationaux",
+    "body": "Peut-on se déplacer librement dans le pays ?"
+  },
+  "stats": {
+    "title": "Situation actuelle",
+    "body": "Statistiques sur la situation actuelle du Covid-19."
+  },
+  "news": {
+    "title": "Actualités",
+    "body": "Mesures gouvernementales récentes."
+  },
+
+  "mapSection": {
+    "title": "Sélectionnez un pays",
+    "subtitle": "et voir la situation actuelle",
+    "body": "Ou bien cherchez via le moteur de recherche."
+  }
+}

@@ -1,0 +1,37 @@
+/*! purgecss start ignore */
+
+
+h1.decorated {
+  @apply inline relative;
+  box-shadow: inset 0 -0.35em #ffd15bde;
+
+  &::after {
+    content: "";
+    display: block;
+    @apply mb-4;
+  }
+}
+
+.emphasis {
+  @apply mt-5 bg-ko-blue-300 border-ko-blue-100 border-l-8 p-3;
+
+  a {
+    line-break:unset;
+  }
+}
+
+.markdown {
+  blockquote {
+    @extend .emphasis
+  }
+
+  h1 {
+    @extend .decorated;
+  }
+
+  a {
+    @apply underline;
+  }
+}
+
+/*! purgecss end ignore */

@@ -1,0 +1,55 @@
+{
+  "title": "Restrictions de voyage : {{name}}",
+  "SEODescription":"Obtenez les informations à jour sur les restrictions de voyage dues à la COVID-19 : {{name}}",
+  "lastUpdate": "Mis à jour le",
+  "missingDataDisclaimerOx": "La base de données Oxford COVID-19 Government Response Tracker n'a pas d'information pour : ",
+  "missingDataDisclaimerCMS": "Nous n'avons pas d'information en ce moment pour : ",
+
+  "missingDataODFA": "La base de données ODFA n'a pas de données récentes pour ce pays.",
+  "missingAcapsDisclaimer":"ACAPS n'a pas d'informations pour ce pays",
+  "seeMore": "Voir plus",
+  "noRequests": "Pas d'exigences particulières.",
+  "warningDisclaimer": "En raison d'une évolution rapide des régulations et des restrictions en cours, nous vous recommandons de vérifier auprès des autorités locales pour plus d'informations.",
+  "enter": {
+    "title": "Entrer sur le territoire",
+    "entrance": "Frontières",
+    "toDoBefore": "Avant le départ",
+    "toDoArrival": "A l'arrivée",
+    "missingDataDisclaimer": "Nous n'avons pas d'informations sur les préparatifs nécessaires à l'entrée dans ce pays.",
+    "helpUsOut":"Aidez-nous à saisir les données manquantes !",
+    "internationalTravelDisclaimer":"Ces informations concernent uniquement les contrôles liés au Covid. Les visas et autres formalités liées aux procédures d'immigration ne sont pas incluses."
+  },
+  "requirements": "Contrôles avant le départ et après l'arrivée",
+  "localLife": {
+    "title": "Vie locale",
+    "innerTravel": "Voyages intranationaux",
+    "localLife": "Quarantine & mesures sanitaires",
+    "innerTravelMissingDisclaimer":"Ces mesures sont uniquement liées à la situation sanitaire du Covid. D'autres mesures affectant les déplacements peuvent être en vigueur."
+  },
+  "status": {
+    "situation": "Situation actuelle",
+    "confirmedCases": "Cas confirmés",
+    "confirmedDeaths": "Décès confirmés",
+    "inhabitants": "Habitants",
+    "updatedGovMeas": "Dernières mesures implémentées"
+  },
+  "measures": {
+    "implementedOn": "Active depuis le"
+  },
+  "severity": {
+    "default": {
+      "low": "Envisageable",
+      "medium": "Restrictif",
+      "high": "Difficile",
+      "critical": "Très difficile",
+      "default": "Inconnu"
+    },
+    "stats":{
+      "low": "Taux d'infection bas",
+      "medium": "Taux d'infection moyen",
+      "high": "Taux d'infection élevé",
+      "critical": "Taux d'infection dangereux",
+      "default": "Taux d'infection non connu"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Travel restrictions in {{name}}",
+  "SEODescription":"Find the latest updates on Covid-19 travel and local life restrictions in {{name}}",
+  "lastUpdate": "Last update",
+  "missingDataDisclaimerOx": "The Oxford COVID-19 Government Response Tracker does not have data for",
+  "missingDataDisclaimerCMS": "We do not have data for ",
+  "missingDataODFA":"There is no data on Open Data For Africa for this country.",
+  "missingAcapsDisclaimer":"ACAPS does not have information on the recent measures",
+  "seeMore": "See more",
+  "noRequests":"No specific requests.",
+  "warningDisclaimer":"Due to fast-changing regulations and specific restrictions on affected countries, we recommend you to check your local consulate for further information.",
+  "enter": {
+    "title": "Get in",
+    "entrance": "Border status",
+    "toDoBefore": "Before departure",
+    "toDoArrival": "To do on arrival",
+    "missingDataDisclaimer":"We do not have information about requirements pre- and post-arrival yet.",
+    "helpUsOut":"Help us out filling the gaps!",
+    "internationalTravelDisclaimer":"These informations only concerns measures regarding Covid-19. It does not include visa and other immigration formalities."
+  },
+  "requirements": "Requirements",
+  "localLife": {
+    "title": "Local life",
+    "innerTravel": "Travel within the country",
+    "localLife": "Lockdown & sanitary measures",
+    "innerTravelMissingDisclaimer":"This only covers restrictions related to Covid-19. Restrictions for other reasons can be in action."
+  },
+  "status": {
+    "situation": "Current situation",
+    "confirmedCases": "Confirmed cases",
+    "confirmedDeaths": "Confirmed deaths",
+    "inhabitants": "Inhabitants",
+    "updatedGovMeas": "Updates on government measures"
+  },
+  "measures":{
+    "implementedOn":"Implemented on"
+  },
+  "severity": {
+    "default": {
+      "low": "Manageable",
+      "medium": "Restrictive",
+      "high": "Difficult",
+      "critical": "Very difficult",
+      "default": "Unknown"
+    },
+    "stats":{
+      "low": "Low infection rate",
+      "medium": "Medium infection rate",
+      "high": "High infection rate",
+      "critical": "Dangerous infection rate",
+      "default": "Unknown infection rate"
+    }
+  }
+}

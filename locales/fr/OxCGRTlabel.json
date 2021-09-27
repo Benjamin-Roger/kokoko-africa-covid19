@@ -1,0 +1,56 @@
+{
+  "C1": {
+    "level_0": "Les écoles et les universités sont ouvertes.",
+    "level_1": "Les écoles et les universités sont pour la plupart ouvertes, avec des mesures spécifiques mises en œuvre.",
+    "level_2": "Certaines écoles et universités sont fermées.",
+    "level_3": "Toutes les écoles et universités ont été fermées."
+  },
+  "C2": {
+    "level_0": "Les lieux de travail sont ouverts.",
+    "level_1": "Il est recommandé aux entreprises de fermer et de travailler à domicile.",
+    "level_2": "Certains secteurs d'activité doivent fermer.",
+    "level_3": "Les entreprises sont fermées (ou travaillent à domicile), sauf les lieux de travail essentiels (épiceries, etc.)"
+  },
+  "C3": {
+    "level_0": "Les événements publics sont maintenus.",
+    "level_1": "Il est recommandé d'annuler les événements.",
+    "level_2": "Tous les événements sont annulés."
+  },
+  "C4": {
+    "level_0": "Les rassemblements privés ne sont pas limités.",
+    "level_1": "Des restrictions ont été instaurées pour les très grands rassemblements (la limite est supérieure à 1 000 personnes).",
+    "level_2": "Des restrictions ont été instaurées pour les rassemblements entre 101 et 1000 personnes.",
+    "level_3": "Des restrictions ont été instaurées pour les rassemblements de 11 à 100 personnes.",
+    "level_4": "Des restrictions ont été instaurées pour les rassemblements de 10 personnes ou moins."
+  },
+  "C5": {
+    "level_0": "Les transports publics sont entièrement accessibles.",
+    "level_1": "Des recommandations pour fermer et réduire le trafic des transports publics ont été mises en œuvre.",
+    "level_2": "Les transports publics sont considérablement perturbés."
+  },
+  "C6": {
+    "level_0": "Il n'y a pas de verrouillage implémenté.",
+    "level_1": "Il est recommandé de ne pas quitter son domicile à quelques exceptions près (épicerie, exercices ...).",
+    "level_2": "Il est obligatoire de ne pas quitter son domicile avec des exceptions strictes.",
+    "level_3": "Des restrictions ont été définies pour les rassemblements entre 11 et 100 personnes."
+  },
+  "C7": {
+    "level_0": "Les gens peuvent voyager à l'intérieur du pays sans restrictions supplémentaires.",
+    "level_1": "Il est recommandé d'éviter de voyager dans d'autres régions / villes.",
+    "level_2": "Des restrictions de mouvement internes sont en place."
+  },
+  "C8": {
+    "level_0": "Aucune restriction sur les voyages internationaux n'a été définie.",
+    "level_1": "Les arrivées sont filtrées.",
+    "level_2": "Une quarantaine à l'arrivée peut être requise selon conditions.",
+    "level_3": "Certaines régions ont été interdites d'accès dans le pays.",
+    "level_4": "Les frontières sont actuellement fermées à quelques exceptions près."
+  },
+  "H6": {
+    "level_0": "Il n'y a aucune obligation de porter un masque facial.",
+    "level_1": "Il est recommandé de porter un masque facial.",
+    "level_2": "Un masque facial est requis dans certaines zones spécifiques.",
+    "level_3": "Un masque facial est requis dans la plupart des espaces publics.",
+    "level_4": "Un masque facial est requis en tout temps à l'extérieur de la maison."
+  }
+}

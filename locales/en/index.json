@@ -1,0 +1,36 @@
+{
+  "canwego": "Can we go to",
+  "searchButton": "Search with the map",
+  "or":"OR",
+  "cardSectionTitle": "What information do we have ?",
+  "enter": {
+    "title": "Border status",
+    "body": "Is the country is currently open to welcoming foreign travellers?"
+  },
+  "immigration": {
+    "title": "Immigration requirements",
+    "body": "What is necessary to prepare before coming : PCR tests, registration...As well as measures once in the country: quarantine, extra tests, etc..."
+  },
+  "localLife": {
+    "title": "Local life",
+    "body": "How is life currently in the country? Can you work? Is there a lockdown?"
+  },
+  "innerTravel": {
+    "title": "Travel within the country",
+    "body": "Is it possible to move around the country?"
+  },
+  "stats": {
+    "title": "Current situation",
+    "body": "Statistics on the current Covid-19 situation in the country"
+  },
+  "news": {
+    "title": "Updates on government measures",
+    "body": "Last implemented measures by the local government"
+  },
+
+  "mapSection" : {
+      "title":"Select a country",
+      "subtitle":"and see the current situation",
+      "body":"Can't find on the map? Type the country name in the search engine."
+  }
+}

@@ -1,0 +1,59 @@
+@layer base {
+
+  html {
+    scroll-behavior:smooth;
+  }
+
+  body {
+    @apply bg-ko-blue-900 w-screen overflow-x-hidden ;
+    padding-right:0!important;
+    color: white;
+  }
+
+  .container {
+    @apply w-full mx-auto px-5;
+  }
+
+  h1 {
+    @apply text-5xl mb-3;
+  }
+  h2 {
+    @apply text-2xl mb-2 mt-4;
+  }
+  h3 {
+    @apply text-lg mb-2;
+  }
+  h4 {
+    @apply text-lg mb-2 text-ko-blue-100;
+  }
+
+  h1,
+  h2,
+  h3 {
+    @apply font-bold;
+  }
+
+  p,
+  strong,li {
+    @apply mb-1;
+  }
+
+  ul {
+    @apply list-disc;
+  }
+
+  ol {
+    @apply list-decimal;
+  }
+
+  ul,
+  ol {
+    @apply list-outside ml-6;
+  }
+
+}
+
+body {
+  @apply font-body;
+}
+

@@ -1,0 +1,45 @@
+.infoBlock a {
+    line-break:anywhere;
+    text-decoration: underline;
+}
+
+.dropdown {
+  &__header,
+  &__body {
+    @apply px-6;
+  }
+}
+
+.flyIn {
+  animation: flyin 1s ease-in-out;
+}
+
+@keyframes flyin {
+  from {
+    transform: rotate(50deg);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+.full-width {
+  @apply w-screen;
+
+  @screen sm {
+    margin-left: calc(theme('screens.sm')/2 - 50vw);
+  }
+
+  @screen md {
+    margin-left: calc(theme('screens.md')/2 - 50vw);
+  }
+
+  @screen lg {
+    margin-left: calc(theme('screens.lg')/2 - 50vw);
+  }
+
+  @screen xl {
+    margin-left: calc(theme('screens.xl')/2 - 50vw);
+  }
+}

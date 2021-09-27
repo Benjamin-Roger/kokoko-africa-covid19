@@ -1,0 +1,210 @@
+[
+  {
+    "code": "C1",
+    "label":"C1_School closing",
+    "description": "Schools and universities",
+    "coding": [
+      {
+        "value": 0,
+        "label": "Schools and universities are open."
+      },
+      {
+        "value": 1,
+        "label": "Schools and universities are mostly open, with specific measures implemented."
+      },
+      {
+        "value": 2,
+        "label": "Some schools and universities have been closed."
+      },
+      {
+        "value": 3,
+        "label": "All schools and universities have been closed."
+      }
+    ]
+  },
+  {
+    "code": "C2",
+    "label":"C2_Workplace closing",
+    "description": "Workplaces",
+    "coding": [
+      {
+        "value": 0,
+        "label": "Workplaces are open."
+      },
+      {
+        "value": 1,
+        "label": "Companies are recommended to close and to work from home."
+      },
+      {
+        "value": 2,
+        "label": "Some business sectors are required to close."
+      },
+      {
+        "value": 3,
+        "label": "Businesses are closed (or work from home), except essential workplaces (grocery stores, etc.)"
+      }
+    ]
+  },
+  {
+    "code": "C3",
+    "label":"C3_Cancel public events",
+    "description": "Public events",
+    "coding": [
+      {
+        "value": 0,
+        "label": "Public events are maintained."
+      },
+      {
+        "value": 1,
+        "label": "Events are recommended to be canceled."
+      },
+      {
+        "value": 2,
+        "label": "All events are canceled."
+      }
+    ]
+  },
+  {
+    "code": "C4",
+    "label":"C4_Restrictions on gatherings",
+    "description": "Private gatherings",
+    "coding": [
+      {
+        "value": 0,
+        "label": "Private gathering are not limited."
+      },
+      {
+        "value": 1,
+        "label": "Restrictions have been set on very large gatherings (the limit is above 1000 people)."
+      },
+      {
+        "value": 2,
+        "label": "Restrictions have been set on gatherings between 101-1000 people."
+      },
+      {
+        "value": 3,
+        "label": "Restrictions have been set on gatherings between 11-100 people."
+      },
+      {
+        "value": 4,
+        "label": "Restrictions have been set on gatherings between 10 people or less."
+      }
+    ]
+  },
+  {
+    "code": "C5",
+    "label":"C5_Close public transport",
+    "description": "Public transport",
+    "coding": [
+      {
+        "value": 0,
+        "label": "Public transports are fully accessible."
+      },
+      {
+        "value": 1,
+        "label": "Recommendations to close and reduce public transport traffic have been implemented."
+      },
+      {
+        "value": 2,
+        "label": "Public transport are significantly disturbed."
+      }
+    ]
+  },
+  {
+    "code": "C6",
+    "label":"C6_Stay at home requirements",
+    "description": "Home lockdown",
+    "coding": [
+      {
+        "value": 0,
+        "label": "There is no lockdown implemented."
+      },
+      {
+        "value": 1,
+        "label": "It is recommended not to leave the house with some exceptions (grocery shopping, exercises...)."
+      },
+      {
+        "value": 2,
+        "label": "It is required not to leave the house with strict exceptions."
+      },
+      {
+        "value": 3,
+        "label": "Restrictions have been set on gatherings between 11-100 people."
+      }
+    ]
+  },
+  {
+    "code": "C7",
+    "label":"C7_Restrictions on internal movement",
+    "description": "Internal movements restrictions",
+    "coding": [
+      {
+        "value": 0,
+        "label": "People can travel within the country with no extra restrictions."
+      },
+      {
+        "value": 1,
+        "label": "It is recommended to avoid traveling to other regions/cities."
+      },
+      {
+        "value": 2,
+        "label": "Internal movement restrictions are in place."
+      }
+    ]
+  },
+  {
+    "code": "C8",
+    "label":"C8_International travel controls",
+    "description": "International travel restrictions",
+    "coding": [
+      {
+        "value": 0,
+        "label": "No restrictions on international travel have been set."
+      },
+      {
+        "value": 1,
+        "label": "Arrivals are screened."
+      },
+      {
+        "value": 2,
+        "label": "Quarantine on arrival can be expected."
+      },
+      {
+        "value": 3,
+        "label": "Some regions have been banned to enter the country."
+      },
+      {
+        "value": 4,
+        "label": "Borders are currently closed with few exceptions."
+      }
+    ]
+  },
+
+  {
+    "code": "H6",
+    "label":"H6_Facial Coverings",
+    "description": "Facial covering policy",
+    "coding": [
+      {
+        "value": 0,
+        "label": "There is no public requirement to wear facial covering."
+      },
+      {
+        "value": 1,
+        "label": "It is recommended to wear facial covering."
+      },
+      {
+        "value": 2,
+        "label": "Facial covering is required in some specific areas."
+      },
+      {
+        "value": 3,
+        "label": "Facial covering is required in most public areas."
+      },
+      {
+        "value": 4,
+        "label": "Facial covering is required at all times outside of home."
+      }
+    ]
+  }
+]
